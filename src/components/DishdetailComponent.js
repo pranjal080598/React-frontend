@@ -62,6 +62,7 @@ class DishdetailComponent extends Component {
         return (
 			
             <div className='row'>
+                
                 {dishItem}
                 {commentItem}
             </div>
