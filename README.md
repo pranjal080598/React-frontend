@@ -67,5 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-After the project is completed, build the project. Move it into the public folder of the json server.
-Start the json server in the json-server folder. Go to the browser on localhost on json port.
+After the project is completed, build the project. Move it into the public folder of the json server. Start the json server in the json-server folder. Go to the browser on localhost on json port. See the project running there.
