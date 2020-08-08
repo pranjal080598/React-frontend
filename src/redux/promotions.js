@@ -17,3 +17,6 @@ export const Promotions = (state  = { isLoading: true,
           return state;
       }
 };
+
+
+// switch on the basis of actions in all files like leaders, dishes
